@@ -1,4 +1,5 @@
-# Hacking  Version 7
+# HACKING VERSION 7
+# This is a text based-password guessing game.
 
 # HOW TO RUN-
 # keep this file and uagame.py file (module from course) in the same folder with .py extension
@@ -8,10 +9,8 @@
 # voila!
 
 # INSTRUCTIONS-
-# This is a text based-password guessing game.
 # The game starts with a heading and No. of Attempts left (top left corner)
 # Next, a list of potential passwords mixed within confusing symbols is displayed(below attempts no.)
-# The correct password is the same every time the game is played.
 # The player has 4 attempt to guess the password.
 # On each failed attempt the player is given a hint(top right corner
 # After 3rd failed attempt a lockout warning is displayed(bottom right corner)
